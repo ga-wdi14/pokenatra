@@ -6,7 +6,9 @@ div {
   background: white;
   padding: 50px;
 }
-
+label {
+  width: 100px;
+}
 
 /*
 
